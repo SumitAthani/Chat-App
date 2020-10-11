@@ -1,0 +1,20 @@
+Chat Screen:
+1. Important messages(override notification in DND mode (only when user permits)
+2. React to messages (Custom)
+3. Reply to messages(swipe).
+4. Large stickers.
+5. Large GIF's.
+6. Responding messages(group)
+7. 4-5 customisable themes (default and others)
+8. Private reply.
+9. 24 hrs messages. 
+10. Auto delete messages.
+
+Home Screen:
+1. Down navigation.
+2. Statuses, Snaps, Memories.
+
+Account Screen:
+1. Large Image
+2. Settings Menu
+
